@@ -40,7 +40,7 @@ pip3 install -r requirements.txt
 ```
 **Step 4: Run Installer (Linux or Termux)**
 ```bash
-python3 install.py
+python3 cross_platform_installer.py
 ```
 **Then type `y` for install**
 
